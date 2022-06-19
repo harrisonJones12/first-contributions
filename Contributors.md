@@ -12,6 +12,7 @@
 - [VineBoomSoundEffect](https://github.com/VineBoomSoundEffect)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [Abiodun Adefila](https://github.com/adefaze)
+- [Harrison Jones](https://github.com/harrisonJones12)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
